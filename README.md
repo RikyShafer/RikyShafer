@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://mortgage-advice-1.onrender.com/](https://mortgage-advice-1.onrender.com/)
 
-- 📫 How to reach me **riky.shafer@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gDbZtur6Onulb_2x6TU_8g6Sw4vrp1uE/view?usp=sharing](https://drive.google.com/file/d/1gDbZtur6Onulb_2x6TU_8g6Sw4vrp1uE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
