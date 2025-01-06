@@ -1,4 +1,3 @@
-<img src="https://www.pinterest.com/pin/698832067194896002/" alt="Pin" />
 
 # 💫 About Me:
 👩‍💻 Full-stack developer | Node.js & React.js 🌐 | Experienced in building innovative systems 🚀 | Passionate about creating impactful solutions! 🔧
