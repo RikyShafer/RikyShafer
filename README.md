@@ -26,6 +26,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%2307405E.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RikyShafer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RikyShafer&theme=dark&hide_border=false)<br/>
